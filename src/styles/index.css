@@ -1,0 +1,10 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+.px2-py4{padding: 0.5rem 1rem;}
+
+.icon-custom {
+  width: 16px;
+  height: 16px;
+}
