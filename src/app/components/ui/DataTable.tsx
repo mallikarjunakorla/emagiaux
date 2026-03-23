@@ -1,6 +1,6 @@
 import { useState, ReactNode } from "react";
 import { ArrowUpDown, ArrowUp, ArrowDown, MoreHorizontal, Loader2 } from "lucide-react";
-import { Pagination } from "./Pagination";
+import { Pagination } from "./pagination";
 
 export interface Column<T> {
   key: keyof T | string;
