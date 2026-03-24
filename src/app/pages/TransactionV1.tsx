@@ -119,7 +119,7 @@ export function TransactionV1() {
       <div className="flex justify-between items-center">
         <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between">
           <div>
-            <h2 className="text-[#0f172a]">March 2026 Reconciliation</h2>
+            <h2 className="text-[#0f172a]">Transaction Matching</h2>
             <p className="text-sm text-[#64748b] mt-0.5">March 1 – March 13, 2026</p>
           </div>
         </div>
