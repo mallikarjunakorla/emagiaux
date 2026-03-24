@@ -55,7 +55,7 @@ const navItems = [
   // },
   {
     id: "transaction",
-    label: "Transaction Matching V1",
+    label: "Transaction Matching",
     icon: GitMerge,
     path: "/transaction",
     badge: null,
